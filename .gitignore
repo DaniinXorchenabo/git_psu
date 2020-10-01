@@ -1,6 +1,6 @@
 # Built application files
 build/
-
+help_me!
 # Files for the ART/Dalvik VM
 *.dex
 
