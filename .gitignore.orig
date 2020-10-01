@@ -1,8 +1,10 @@
 # Built application files
 build/
+<<<<<<< HEAD
 help_me!
+=======
 arrrrrrrrrrrrrrrr
-
+>>>>>>> my_test_branch
 # Files for the ART/Dalvik VM
 *.dex
 
